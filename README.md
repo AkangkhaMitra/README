@@ -1,8 +1,13 @@
 # README
-👋 Hi, I’m @Suvojit_Sengupta ak SSG
-👀 Interested in web_dev/android
-🌱 Currently learning php/Laravel
-💞️ Looking to collaborate on WEB/android projects
-📫 Reach me- suvojit.sengupta.ssg@gmail.com
+👋 Hi, I’m @Akangkha Mitra
+📊 Data Alchemist 
+🌟Transforming Raw Numbers into Insights  
+🔮 Python Enthusiast | Machine Learning Magician 
+📈 Visualizing Stories with Code 
+🌌 Exploring the Universe, One Dataset at a Time 
+🧩 Let's Decode the Data Puzzle Together! 
+🌱 Currently learning LSTM/CNN/ANN/RNN/PowerBi
+💞️ Looking to collaborate on Prediction And Forcasting projects
+📫 Reach me- akangkhamitra123@gmail.com 
 
-Hi there! I'm a Computer Science student with a passion for programming and web development. I have experience in several programming languages, including C, C++, Java, Python, and PHP. Currently, I'm working on developing web applications using the Laravel framework. I'm always looking to learn and expand my knowledge, so I'm excited to collaborate on open-source projects and contribute to the developer community. Let's connect and build some awesome software together!
+Hi there! I'm a Computer Science(Big Data Analytics) student with a passion for programming and Data Analytics.Let's connect and build some awesome And Accurate Prediction And Forcating together!
